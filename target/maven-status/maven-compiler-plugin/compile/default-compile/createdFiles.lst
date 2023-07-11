@@ -1,0 +1,6 @@
+com/cloud/accelarator/utils/AzureStorageUtils.class
+com/cloud/accelarator/stepdefs/AzureStorageAccountsStepDef.class
+com/cloud/accelarator/stepdefs/Hukes.class
+com/cloud/accelarator/stepdefs/AzureMySqlStepDef.class
+com/cloud/accelarator/utils/AzureCloudSQLUtils.class
+com/cloud/accelarator/utils/GenericUtils.class
